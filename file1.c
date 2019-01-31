@@ -2,8 +2,9 @@
 
 int main(){
 printf("Hello,World!");
+printf("kkkkkk");
   //helloworldhellohellohello
-<<<<<<< HEAD
+
 return 0;
 }
 
