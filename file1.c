@@ -2,7 +2,8 @@
 
 int main(){
 printf("Hello,World!");
+  //helloworldhellohellohello
 <<<<<<< HEAD
-return 0; //qqqqqqqqqq
+return 0;
 }
 
